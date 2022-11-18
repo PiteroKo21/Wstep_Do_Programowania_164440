@@ -1,0 +1,3 @@
+﻿  Tablice.cpp
+D:\PW\Wstep_Do_Programowania_164440\Tablice\Tablice\Tablice.cpp(23,15): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  Tablice.vcxproj -> D:\PW\Wstep_Do_Programowania_164440\Tablice\x64\Debug\Tablice.exe
