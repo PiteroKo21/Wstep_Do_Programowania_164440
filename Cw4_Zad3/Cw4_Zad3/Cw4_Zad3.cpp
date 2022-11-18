@@ -22,18 +22,17 @@ int main()
 
 	if (godzina <= 1 && godzina >= 12 && am == "am" || am == "pm") {
 
-		
 		int nowaGodzina = godzina + a;
 
-		if(nowaGodzina > 12 && am = "am") {
+		if (nowaGodzina > 12 && am == "am") {
+
+			am = "pm";
+
+			nowaGodzina = nowaGodzina - 11;
 
 		}
-		
+		cout << nowaGodzina << am;
 
-	}
-	else {
-
-		cout << "Zle podane dane." << endl;
 	}
 
 }
