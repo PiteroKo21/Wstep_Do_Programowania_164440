@@ -1,0 +1,5 @@
+﻿  Funkcje.cpp
+D:\PW\Wstep_Do_Programowania_164440\Funkcje\Funkcje\Funkcje.cpp(7,15): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+D:\PW\Wstep_Do_Programowania_164440\Funkcje\Funkcje\Funkcje.cpp(21,15): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+D:\PW\Wstep_Do_Programowania_164440\Funkcje\Funkcje\Funkcje.cpp(42,15): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  Funkcje.vcxproj -> D:\PW\Wstep_Do_Programowania_164440\Funkcje\x64\Debug\Funkcje.exe
